@@ -1,0 +1,15 @@
+console.log("Hello, World!");
+mv path/to/test.js ./01_basics/
+node ./01_basics/test.js
+find /home/codespace -name "javascript-practice"
+cd /path/to/javascript-practice
+ls -a
+cd 01_basics
+mkdir 01_basics
+find . -name test.js
+nano 01_basics/test.js
+nano 01_basics/test.js
+console.log("Hello, World!");
+mv path/to/test.js ./01_basics/
+mv path/to/test.js ./01_basics/
+
